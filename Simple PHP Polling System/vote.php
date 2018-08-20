@@ -35,7 +35,8 @@ or die("There are no records to display ... \n" . mysql_error());
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Simple PHP Polling System:Voting Page</title>
+<title>vote2</title>
+ <title>Simple PHP Polling System:Voting Page</title>
 <link href="css/user_styles.css" rel="stylesheet" type="text/css" />   
 <script language="JavaScript" src="js/user.js">
 </script>
